@@ -1,5 +1,3 @@
-const { defineConfig } = require('@vue/cli-service')
-
 module.exports = {
   transpileDependencies: true,
   // https://cli.vuejs.org/config/#devserver-proxy
